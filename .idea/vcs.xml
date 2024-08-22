@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/OrbbecSDK_ROS2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/YDLidar-SDK" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/aruco_ros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/costmap_converter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/csm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/limo_ros2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/rf2o_laser_odometry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ros2_astra_camera/libuvc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/teb_local_planner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ydlidar_ros2_driver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/yolov5_ros2" vcs="Git" />
+  </component>
+</project>
